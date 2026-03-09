@@ -22,9 +22,6 @@ The dataset contains over 5,000 survey responses, with approximately 3,600 respo
 ## Key Insights
 
 - Price is the strongest purchase driver, followed by brand reputation and product features.
-
-![Price Drivers](image.png)
-
 - Consumers evaluate price primarily within the context of their personal budget.
 - Most consumers are willing to pay between $50 and $100.
 - Product features and brand credibility influence whether consumers perceive a product as worth its price.
