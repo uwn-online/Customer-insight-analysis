@@ -23,7 +23,7 @@ The dataset contains over 5,000 survey responses, with approximately 3,600 respo
 
 - Price is the strongest purchase driver, followed by brand reputation and product features.
 
-reports\Factors Affecting Purchase.png
+![alt text](<reports/Factors Affecting Purchase.png>)
 
 - Consumers evaluate price primarily within the context of their personal budget.
 - Most consumers are willing to pay between $50 and $100.
